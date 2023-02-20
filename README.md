@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Hottos091
-- 👀 I’m interested in Flutter & Blockchain (Web3)
-- 🌱 I’m currently learning Flutter & Blockchain (Web3)
-- 💞️ I’m looking to collaborate on Flutter & Blockchain (Web3)
 - 📫 How to reach me brousmichek.pro@gmail.com
 
 <!---
